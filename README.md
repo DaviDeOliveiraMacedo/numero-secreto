@@ -1,4 +1,4 @@
-🎯 Jogo de Números Secretos
+🎯 Jogo do Número Secreto
 
 📖 Sobre o Projeto
 
@@ -49,7 +49,7 @@ NUMERO-SECRETO
 └──style.css
 
 🎨 Exemplo de Uso
-=== JOGO DO NÚMEROS SECRETO ===
+=== JOGO DO NÚMERO SECRETO ===
 
 Tente adivinhar o número entre 1 e 5000!
 
