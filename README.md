@@ -1,4 +1,5 @@
 🎯 Jogo de Números Secretos
+
 📖 Sobre o Projeto
 
 Um jogo divertido onde você precisa adivinhar o número secreto! O computador escolhe um número aleatório e você tem que descobrir qual é, recebendo dicas se o seu número é maior ou menor que o número secreto
