@@ -1,73 +1,78 @@
-🎯 Jogo do Número Secreto
+# 🎯 Jogo do Número Secreto
 
-📖 Sobre o Projeto
+## 📖 Sobre o Projeto
 
-Um jogo divertido onde você precisa adivinhar o número secreto! O computador escolhe um número aleatório e você tem que descobrir qual é, recebendo dicas se o seu número é maior ou menor que o número secreto
+- Um jogo divertido onde você precisa adivinhar o número secreto! O computador escolhe um número aleatório e você tem que descobrir qual é, recebendo dicas se o seu número é maior ou menor que o número secreto
 
-🎮 Como Jogar
+### 🎮 Como Jogar
 
-O jogo escolhe um número secreto entre 1 e 5000
+- O jogo escolhe um número secreto entre 1 e 5000
 
-Você digita um número
+- Você digita um número
 
-O jogo te dá uma dica:
+- O jogo te dá uma dica:
 
-"O número é maior que " se seu número for maior que o secreto
+- "O número é maior que " se seu número for maior que o secreto
 
-"O número é menor que" se seu número for menor que o secreto
+- "O número é menor que" se seu número for menor que o secreto
 
-"acertou!" se acertar o número
-
-
-Continue tentando até acertar!
+- "acertou!" se acertar o número
 
 
-🎯 Funcionalidades
+- Continue tentando até acertar!
 
-✅ Geração de números aleatórios
-✅ Sistema de dicas (alto/baixo)
-✅ Contador de tentativas
-✅ Interface amigável
-✅ Opção de jogar novamente
 
-🛠️ Tecnologias Utilizadas
+### 🎯 Funcionalidades
 
-[Linguagem utilizada - JavaScript]
+- ✅ Geração de números aleatórios
 
-📂 Estrutura do Projeto
+- ✅ Sistema de dicas (alto/baixo)
 
-NUMERO-SECRETO
+- ✅ Contador de tentativas
 
-└── img
+- ✅ Interface amigável
 
-└── README.md
+- ✅ Opção de jogar novamente
 
-└── app.js
+### 🛠️ Tecnologias Utilizadas
 
-└── index.html
+- [Linguagem utilizada - JavaScript]
 
-└──style.css
+### 📂 Estrutura do Projeto
 
-🎨 Exemplo de Uso
+- NUMERO-SECRETO
+
+ -  └── img
+
+ - └── README.md
+
+ - └── app.js
+
+ - └── index.html
+
+ - └──style.css
+
+### 🎨 Exemplo de Uso
+
 === JOGO DO NÚMERO SECRETO ===
 
-Tente adivinhar o número entre 1 e 5000!
+- Tente adivinhar o número entre 1 e 5000!
 
-Digite seu número: 3405
+- Digite seu número: 3405
 
-Muito alto! Tente um número menor.
+- Muito alto! Tente um número menor.
 
-Digite seu número: 3304
+- Digite seu número: 3304
 
-Muito baixo! Tente um número maior.
+- Muito baixo! Tente um número maior.
 
-Digite seu número: 3371
+- Digite seu número: 3371
 
-🎉 Parabéns! Você acertou em 3 tentativas!
+- 🎉 Parabéns! Você acertou em 3 tentativas!
 
 
-👨‍💻 Autor
+### 👨‍💻 Autor
 
-Davi de Oliveira Macedo
+- Davi de Oliveira Macedo
 
-GitHub: DaviDeOliveiraMacedo
+- GitHub: DaviDeOliveiraMacedo
